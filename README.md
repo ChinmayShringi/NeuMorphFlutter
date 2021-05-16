@@ -1,5 +1,5 @@
 # NeuMorph Clock Flutter
-![Alt text](screenshot/3.png "NEUUUUUUU")
+![Alt text](ss.png "NEUUUUUUU")
 
 ## Getting Started
 
