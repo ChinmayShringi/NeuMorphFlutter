@@ -1,4 +1,4 @@
-# NeuMorph Clock Flutter
+# NeuMorph Clock Flutter template
 ![Alt text](ss.png "NEUUUUUUU")
 
 ## Getting Started
